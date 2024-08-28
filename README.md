@@ -7,7 +7,7 @@ Sou um entusiasta da tecnologia e da programação, com foco em **desenvolviment
 - **Sistemas Embarcados**: Projetos utilizando FPGA, microcontroladores e desenvolvimento em SystemVerilog.
 - **Eletrônica Digital**: Design de circuitos digitais, simulações e implementação em hardware.
 - **Comunicação de Dados**: Estudo e desenvolvimento de modulação digital e analógica, incluindo simulações e análise de sinais.
-- **Desenvolvimento de Software**: Desenvolvimento de interfaces gráficas, aplicativos e soluções criativas em linguagens como MATLAB, Python, p5.js, entre outras.
+- **Desenvolvimento de Software**: Desenvolvimento de interfaces gráficas, aplicativos e soluções criativas em linguagens como MATLAB, Python, JS, entre outras.
 
 <div>
 <a href="https://github.com/lucasxavier9">
@@ -16,6 +16,15 @@ Sou um entusiasta da tecnologia e da programação, com foco em **desenvolviment
 </a>
 </div>
 
+
+## Main skills:
+
+<img loagind="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> 
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" />
+           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
+            
+          
+          
 
 
 ## Vamos conectar!
