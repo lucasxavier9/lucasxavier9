@@ -9,13 +9,6 @@ Sou um entusiasta da tecnologia e da programação, com foco em **desenvolviment
 - **Comunicação de Dados**: Estudo e desenvolvimento de modulação digital e analógica, incluindo simulações e análise de sinais.
 - **Desenvolvimento de Software**: Desenvolvimento de interfaces gráficas, aplicativos e soluções criativas em linguagens como MATLAB, Python, JS, entre outras.
 
-<div>
-<a href="https://github.com/lucasxavier9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxavier9&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasxavier9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
-
 
 ## Main skills:
 
