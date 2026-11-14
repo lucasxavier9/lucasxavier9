@@ -139,21 +139,24 @@ O trabalho explora:
 
 Coautor de artigo publicado na Revista FT, em 30 de abril de 2026.
 
-[Consultar publicação](https://www.revistaft.com/ft/article/view/658) · [DOI: 10.69849/m2td7360](https://doi.org/10.69849/m2td7360)
+[Consultar publicação na Revista FT](https://www.revistaft.com/ft/article/view/658) · [DOI: 10.69849/m2td7360](https://doi.org/10.69849/m2td7360)
+
+**Trabalhos disponíveis no Repositório Institucional da UFERSA:**
+
+- [Estudo de viabilidade de implementação de sistema para otimização de energia solar no Outdog da UFERSA Campus Pau dos Ferros](https://repositorio.ufersa.edu.br/items/ab96cc07-93b3-415e-9728-f024ae6be6c8)
+- [Extensão funcional em processador RISC-V para aceleração de produto escalar em FPGA](https://repositorio.ufersa.edu.br/items/482a3dee-2cca-480a-b8cc-387109bb1573)
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasxavier9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lucasxavier9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/lucasxavier9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxavier9&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lucasxavier9&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasxavier9&theme=tokyo-night&hide_border=true)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lucasxavier9&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/lucasxavier9)
 
 </div>
+
+> Os cards são gerados pelo [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended).
 
 ---
 
@@ -245,7 +248,12 @@ The research focuses on FPGA-based control architecture, including I/Q signal ge
 
 Co-author of a scientific article published in Revista FT on April 30, 2026.
 
-[Read the publication](https://www.revistaft.com/ft/article/view/658) · [DOI: 10.69849/m2td7360](https://doi.org/10.69849/m2td7360)
+[Read the Revista FT publication](https://www.revistaft.com/ft/article/view/658) · [DOI: 10.69849/m2td7360](https://doi.org/10.69849/m2td7360)
+
+**Works available in the UFERSA Institutional Repository:**
+
+- [Feasibility study of implementing a solar energy optimization system at UFERSA Pau dos Ferros Campus](https://repositorio.ufersa.edu.br/items/ab96cc07-93b3-415e-9728-f024ae6be6c8)
+- [Functional extension in a RISC-V processor for FPGA-based dot product acceleration](https://repositorio.ufersa.edu.br/items/482a3dee-2cca-480a-b8cc-387109bb1573)
 
 ## Contact
 
