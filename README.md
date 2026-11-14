@@ -62,6 +62,7 @@ Gosto de transformar conceitos técnicos em soluções práticas, combinando sof
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-333333?style=flat-square&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=flat-square&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF0000?style=flat-square&logoColor=white)
 
 **Desenvolvimento e ferramentas**
 
