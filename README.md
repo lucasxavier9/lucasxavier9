@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-xavier9/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasxavier9)
-[![Portfolio](https://img.shields.io/badge/Portfólio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfólio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)][(lucasxavier-portfolio.vercel.app)](https://lucasxavier-portfolio.vercel.app/)
 [![Secrety AI](https://img.shields.io/badge/Secrety_AI-111827?style=for-the-badge&logo=openai&logoColor=white)](https://secretyai.com)
 [![Automate2L](https://img.shields.io/badge/Automate2L-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)](https://automate2l.com)
 
