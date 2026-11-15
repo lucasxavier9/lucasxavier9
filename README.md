@@ -134,18 +134,31 @@ O trabalho explora:
 - Capacitação em Sistemas Embarcados e FPGA — IFRN.
 - Front-End Developer — Alura.
 
-## 📚 Publicação científica
+## 📚 Publicações
 
-**Redução da evaporação em reservatórios de mineração por meio de técnicas físicas e químicas**
-
+**REVISTA FT · 30 APR 2026**
+### Redução da evaporação em reservatórios de mineração por meio de técnicas físicas e químicas
 Coautor de artigo publicado na Revista FT, em 30 de abril de 2026.
 
-[Consultar publicação na Revista FT](https://www.revistaft.com/ft/article/view/658) · [DOI: 10.69849/m2td7360](https://doi.org/10.69849/m2td7360)
+[Consultar publicação](https://www.revistaft.com/ft/article/view/658) · [DOI: 10.69849/m2td7360](https://doi.org/10.69849/m2td7360)
 
-**Trabalhos disponíveis no Repositório Institucional da UFERSA:**
+---
 
-- [Estudo de viabilidade de implementação de sistema para otimização de energia solar no Outdog da UFERSA Campus Pau dos Ferros](https://repositorio.ufersa.edu.br/items/ab96cc07-93b3-415e-9728-f024ae6be6c8)
-- [Extensão funcional em processador RISC-V para aceleração de produto escalar em FPGA](https://repositorio.ufersa.edu.br/items/482a3dee-2cca-480a-b8cc-387109bb1573)
+**TCC · 16 DEC 2025**
+### Extensão funcional em processador RISC-V para aceleração de produto escalar em FPGA
+Trabalho de Conclusão de Curso disponível no Repositório Institucional da UFERSA.
+
+[Consultar no repositório](https://repositorio.ufersa.edu.br/handle/prefix/14926) · [Coleção: Engenharia de Computação](https://repositorio.ufersa.edu.br/collections/e3dfa075-91d6-4f72-8eab-32893c2b5373)
+
+---
+
+**TCC · 28 NOV 2022**
+### Estudo de viabilidade de implementação de sistema para otimização de energia solar no Outdog da UFERSA Campus Pau dos Ferros
+Trabalho de Conclusão de Curso disponível no Repositório Institucional da UFERSA.
+
+[Consultar no repositório](https://repositorio.ufersa.edu.br/handle/prefix/10271) · [Coleção: Ciência e Tecnologia (Caraúbas)](https://repositorio.ufersa.edu.br/collections/fda82df5-055a-4d27-972a-0cfb51826ed0)
+
+---
 
 ## 📊 GitHub Stats
 
